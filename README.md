@@ -1,4 +1,4 @@
-<h1 align="center">Estação de Controle Veiculares em Marte</h1>
+<h1 align="center">Estação de Controle Veicular em Marte</h1>
 
 <h3 align="center">
   # Projeto V1
