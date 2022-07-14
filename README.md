@@ -21,12 +21,11 @@ O sistema consistem em definir uma área pre-limitada (x, y) para posicionar os 
 > Clonando repository:
 
 ```shell
-git clone git@github.com:Quasar-Flash/qcedente-app.git
+git clone git@github.com:BrunoNeville31/rover.git
 or com https
-git clone https://github.com/Quasar-Flash/qcedente-app.git
-cd qcedente-app/
+git clone https://github.com/BrunoNeville31/rover.git
+cd rover/
 
-cd NOMEDOPROJETO
 bundle
 ruby main.rb
 ```
